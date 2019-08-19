@@ -1,7 +1,7 @@
 # Hessian-Imaging
 Image Process of Hessian Imaging Microscope 
 
-For better flexibity and less cross-taking, we attempt to use Hessian Imaging,
+For better flexibility and less cross-talking, we attempt to use Hessian Imaging,
 which uses deconvolution algorithm based on Hessian matrixes for fluorescence
 images with very short exposure instead of normal exposure.
 
